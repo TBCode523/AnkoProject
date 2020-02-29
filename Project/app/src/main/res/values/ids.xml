@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="googleSearch" type="id" />
+    <item name = "googleSearch_btn" type="id"/>
+    <item name="presentation" type="id"/>
+    <item name="youtubeSearch_btn" type="id"/>
+    <item name="youtubeSearch" type="id"/>
+    <item name="soundcloudSearch" type="id"/>
+    <item name="soundcloudBtn" type="id"/>
+    <item name="nextAct" type="id"/>
+    <item name="thankYouTxt" type="id"/>
+    <item name="goBackBtn" type="id"/>
+    <item name="ContactMeTxt" type="id"/>
+</resources>
